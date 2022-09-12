@@ -1,0 +1,37 @@
+{
+  "name": "com.stupesoft.simple-door",
+  "displayName": "Simple door",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "description": "Simple automation door.",
+  "dependencies": {
+    "com.unity.inputsystem": "1.4.2"
+  },
+  "keywords": [
+    "door",
+    "automation door",
+    "simple door"
+  ],
+  "license": "MIT",
+  "author": {
+    "name": "Stupenkov Anton",
+    "email": "stupean@gmail.com",
+    "url": "https://vk.com/stupenkovanton"
+  },
+  "homepage": "https://github.com/stupenkov",
+  "bugs": {
+    "url": "https://github.com/stupenkov/com.stupesoft.simple-door/issues",
+    "email": "stupean@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stupenkov/com.stupesoft.simple-door.git"
+  },
+  "samples": [
+    {
+      "displayName": "Demo scene",
+      "description": "How to use doors",
+      "path": "Samples/Demo"
+    }
+  ]
+}
